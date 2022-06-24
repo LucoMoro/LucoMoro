@@ -1,11 +1,15 @@
 ### Hi there, I'm Luca Morelli 👋 
-### I am a front-end developer based in Unisa, Fisciano, Italy.
+### I am a front-end developer based in Fisciano, Italy.
+- :computer: I am a student of computer science based in Unisa, Fisciano
+- :globe_with_meridians: I'm currently exploring new technologies like React, React Native, HTML and CSS
+- 👯 I’m looking to collaborate with other content creators.
+- :weight_lifting: I love go to the gym
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> morelli.2000luca@gmail.com
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> @Lucomoro
 
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
+
+### Connect whit me 
+
 
 <!--
 **LucoMoro/LucoMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
