@@ -11,6 +11,7 @@
 
 ### Connect whit me 
 
+<a href="https://www.youtube.com/watch?v=9fDo1zUWKdM" target="_blank" rel="noopener noreferrer"><img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 <!--
 **LucoMoro/LucoMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
