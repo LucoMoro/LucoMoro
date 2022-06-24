@@ -1,7 +1,8 @@
 ### Hi there, I'm Luca Morelli 👋 
+
 ### I am a front-end developer based in Fisciano, Italy.
 - :computer: I am a student of computer science based in Unisa, Fisciano
-- :globe_with_meridians: I'm currently exploring new technologies like React, React Native, HTML and CSS
+- 🌱 I'm currently exploring new technologies like React, React Native, HTML and CSS
 - 👯 I’m looking to collaborate with other content creators.
 - :weight_lifting: I love go to the gym
 
