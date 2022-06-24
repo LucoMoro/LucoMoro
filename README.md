@@ -1,5 +1,5 @@
 ### Hi there, I'm Luca Morelli 👋 
-I am a front-end developer based in Unisa, Fisciano, Italy.
+### I am a front-end developer based in Unisa, Fisciano, Italy.
 
 <!--
 **LucoMoro/LucoMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
