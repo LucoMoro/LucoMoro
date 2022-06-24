@@ -2,7 +2,7 @@
 
 ### I am a front-end developer based in Fisciano, Italy.
 - :computer: I am a student of computer science based in Unisa, Fisciano
-- 🌱 I'm currently exploring new technologies like React, React Native, HTML and CSS
+- 🌱 I'm currently exploring new technologies & frameworks like React, React Native, HTML and CSS
 - 👯 I’m looking to collaborate with other content creators.
 - :weight_lifting: I love go to the gym
  <br><br>
@@ -14,8 +14,14 @@
 <br><br>
 
  ### Technology Stack:
+<img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-<!-- <img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />-->
+
+
+
 
 <!--
 **LucoMoro/LucoMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
