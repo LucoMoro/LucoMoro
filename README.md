@@ -5,6 +5,8 @@
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> @Lucomoro
 
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][blog]
+
 <!--
 **LucoMoro/LucoMoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
